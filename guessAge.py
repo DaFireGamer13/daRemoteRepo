@@ -7,7 +7,6 @@ def main():
     guess_list = []
     while answer == False:
         guess = random.randint(15, 30)
-        guess_list.append(guess)
         print("Your age is: " + str(guess))
         clarify = input("Did I get it right? (Type 'y' or 'n'): ")
         if clarify == 'y':
@@ -19,5 +18,6 @@ def main():
                 print("Oh yeah, you said no already. My bad.")
             answer = False
             print("Dang! Let me try again...")
+        guess_list.append(guess)
     print("Yay! I got it! Wanna go again?")
 main()
