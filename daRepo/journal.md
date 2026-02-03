@@ -14,4 +14,17 @@ that working, and I eventually got it! all that's left now is to join
 the class github and get going on the group project, which I'm excited
 for! Until next time!
 
+Date: 2.3.2026 - Subject: I really gotta be better about this...
+    So, I'm not sure exactly what the requirements are for this journal,
+but I haven't written in here for a while, so I'll update this now before
+I forget. Our team has an idea of what social media website we want to
+build: The most annoying/infuriating Social Media platform ever!
+It'll just be exactly what you think it will be, but built to annoy you
+to the point where anyone will want to get off the platform and actually
+go touch grass. It's ingenious, really!
+    We're going through the requirements as a team now, so we know how we
+want to build the site and also fit the assignment requirements, so it's
+at the very least functional. You'll have to keep reading to fine out what
+happens next!
+
 #next entry here
