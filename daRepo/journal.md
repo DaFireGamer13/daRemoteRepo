@@ -27,4 +27,19 @@ want to build the site and also fit the assignment requirements, so it's
 at the very least functional. You'll have to keep reading to fine out what
 happens next!
 
+Date: 2.17.2026 - Subject: ...working on it.
+    Like I said in the beginning, i'm terrible at journaling, mostly because
+I just simply forget to. I'll try to keep improving for the future!
+    Today in class, Jeff Compas taught us some good principles for presentations,
+especially because we're doing an assignment where we're pitching our idea for
+the social media project. One thing that stood out to me was how impactful
+color can be, not only in logos, but also just plain text and other places.
+Each color can convey a different feeling or emotion, especially with the
+context around it. That does make me wonder, though. What would black/white
+represent?
+    Also, our presentation might be quite interesting, because our project
+idea is...,
+...well...,
+...creating the most inconvinient social media platform ever.
+
 #next entry here
