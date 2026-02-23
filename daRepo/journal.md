@@ -42,4 +42,14 @@ idea is...,
 ...well...,
 ...creating the most inconvinient social media platform ever.
 
+Date: 2.23.2026 - Subject: Getting better.
+    Ok, I'm starting to remember getting these journal entries in. Hopefully that
+means that I can make up the lost points!
+    Our team has put together a presentation for our project proposal that is both
+informative and somewhat a joke :)
+It should fit the assignment requirements and hopefully entertain the class for the
+duration of our presentation. I think the project is coming along well; I just
+hope that the code implemetation won't prove itself too difficult. Guess we'll just
+have to wait and see!
+
 #next entry here
