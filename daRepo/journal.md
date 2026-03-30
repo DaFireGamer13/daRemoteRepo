@@ -52,4 +52,15 @@ duration of our presentation. I think the project is coming along well; I just
 hope that the code implemetation won't prove itself too difficult. Guess we'll just
 have to wait and see!
 
-#next entry here
+Date: 3.30.2026 - Subject: ...and here we go again.
+    I basically completely checked out during spring break, and forgot to get back
+to this until now, so I apoligize sincerely. I will continue to do better.
+    We've made a ton of progress on our project, getting the login page almost fully
+functional, the background colors are looking good (and by that i mean it hurts to
+look at), and I even got the link to the translation website working, wingings and all!
+I even got it to open a new tab rather than redirect in the current tab. Eric is mostly
+working on the main page, Lance took care of the login page, Camryn is on the Database,
+and I'm on all the links and other funny quirks. Bryce, i'm not sure about, but he is
+contributing. I'm excited to see what the final product looks like! I'll keep this updated.
+
+#new entry here
