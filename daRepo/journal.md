@@ -63,4 +63,14 @@ working on the main page, Lance took care of the login page, Camryn is on the Da
 and I'm on all the links and other funny quirks. Bryce, i'm not sure about, but he is
 contributing. I'm excited to see what the final product looks like! I'll keep this updated.
 
-#new entry here
+Date: 4.8.2026 - Subject: Almost done!
+    I don't know if there's any catching up at this point. I'm still terrible at
+journaling. Sorry.
+    We're getting close to completing our project, with just a few details and minor features
+left to go. We had a bit of trouble with the new database that Camryn implemented, but
+we figured it out eventually. We had to switch all the dependencies to sqlite rather
+than json, meaning we all had to create new accounts for the website. Probably means we
+need to update our selenium tests as well. But it's coming along well! I'm excited to see
+the finished product!
+
+#next entry here
